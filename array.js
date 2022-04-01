@@ -11,7 +11,7 @@ let data = [
     experience: 4,
     technologyKnown: ["javascript", "bootstrap", "html"],
     place: "tanjore",
-    company: "TCS",
+    company: "MP",
   },
   {
     name: "Arvinth",
